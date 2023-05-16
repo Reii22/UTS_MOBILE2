@@ -3,7 +3,7 @@
 **Nim : 312110245** <br/>
 
 ### _Output :_
-<img src="img/logo.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
+<img src="img/Output.png" style="border: 2px solid #333; border-radius: 5px; box-shadow: 2px 2px 4px #00000040">
 
 </br></br>
 
